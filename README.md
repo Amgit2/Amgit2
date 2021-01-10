@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello! 👋
 - 🔭 I’m currently working on my thesis as well as a side project (Code Name: Spotlight 😉 Stay Tuned for updates ) 
 - 🌱 I’m currently taking Big Data Analytics & Theoretical Concepts for my final semester
 - 📫 How to reach me: avmh200611@gmail.com or ahiremat@nyit.edu
